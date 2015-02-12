@@ -9,16 +9,16 @@ Experimental
 -----------
 
 2.1 Fabrication of MAPI
-    + Do we know that plama treatment improves wetting? Ref?
-    + line 128 - Change sentence to "A jeol (blah) was used to perform electron microscopy on samples. 
-    + line 130 - Re-write as "All chemicals were supplied by ..."
+    + Do we know that plama treatment improves wetting? Ref? - Reduction in contact angle well known, can find a basic reference no problem.
+    + line 128 - Change sentence to "A jeol (blah) was used to perform electron microscopy on samples. -Done
+    + line 130 - Re-write as "All chemicals were supplied by ..." - Done
 
 2.2 VASE
     + line 155 - Check wavelength range. I think it is something weird like 310 - 1650 nm.
-    + line 157 - Change fit to fitted.
+    + line 157 - Change fit to fitted. - Done
     + last sentence of this section - talk to me about this.
 
 2.3 Optical Modelling
     + "The method has been comprehensively described ina  number of references including MacLoud" - What are the othe references?
-    + Figure 1 should be on page 4 not 1.
+    + Figure 1 should be on page 4 not 1. - I know... I don't like the wall of text to begin with, but you're right..
     + 
